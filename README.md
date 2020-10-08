@@ -11,19 +11,19 @@
 
 1.5 [http-module, enviroment variable](005-http)
 
-1.6 [Библиотека Express.js](006-express)
+2.1 [Библиотека Express.js](006-express)
 
-1.7 [Middleware](007-middleware)
+2.2 [Middleware](007-middleware)
 
-1.8 [Шаблонизаторы. Библиотека ejs](008-ejs)
+2.3 [Шаблонизаторы. Библиотека ejs](008-ejs)
 
-1.9 [Docker. Контейнеризация приложения.](009-docker)
+2.4 [Docker. Контейнеризация приложения.](009-docker)
 
-1.10 [Базы данных. mysql, postgres, MongoDB.](010-db)
+2.5 [Базы данных. mysql, postgres, MongoDB.](010-db)
 
-1.11 [MongoDB - использование из node.js](011-mongo)
+2.6 [MongoDB - использование из node.js](011-mongo)
 
-1.12 [Аутентификация. PassportJS](012-auth)
+2.7 [Аутентификация. PassportJS](012-auth)
 
-1.13 [Websocket. Библиотеки ws и socket.io](013-websocket)
+2.8 [Websocket. Библиотеки ws и socket.io](013-websocket)
 
