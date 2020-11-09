@@ -8,7 +8,7 @@
   
 ![](../001-intro/Step1.png)
 
-<details>
+</details>
 
 2. Проверьте доступность npm и yarn
 
@@ -17,7 +17,7 @@
 
 ![](../001-intro/Step2.png)
 
-<details>
+</details>
 
 3. Инициализируйте проект с npm или yarn в VS Code.
 <details>
@@ -25,6 +25,6 @@
 
 ![](../001-intro/Step3.png)
 
-<details>
+</details>
 
 Это самостоятельное домашнее задание, его выполнение пригодится для следующих занятий.
