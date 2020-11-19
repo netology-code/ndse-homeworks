@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «1.5 http-module, enviroment variable»
+# Домашнее задание к занятию «1.5 http-module. Переменные окружения»
 
 #### Задание 1
 Ознакомиться с документацией [API-сервиса weatherstack](https://weatherstack.com/documentation)  
