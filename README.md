@@ -1,15 +1,15 @@
 # Домашние задания по курсу «Node.js»
 #### NDSE - Настройка окружения Node.js и библиотека Express.js
 
-1.1 [Знакомство с node.js](001-intro)
+1.1 [Начало работы с Node.js](001-intro)
 
-1.2 [Работа с консолью node.js](002-console)
+1.2 [Аргументы командной строки и console](002-console)
 
-1.3 [Менеджер пакетов, модули node.js](003-packages)
+1.3 [Пакеты и модули Node.js](003-packages)
 
-1.4 [Stream. Модули: fs, path](004-stream)
+1.4 [Потоки. Модули: fs, path](004-stream)
 
-1.5 [http-module, enviroment variable](005-http)
+1.5 [1.5 http-module. Переменные окружения](005-http)
 
 2.1 [Библиотека Express.js](006-express)
 
