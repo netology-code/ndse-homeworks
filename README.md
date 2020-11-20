@@ -9,7 +9,7 @@
 
 1.4 [Потоки. Модули: fs, path](004-stream)
 
-1.5 [1.5 http-module. Переменные окружения](005-http)
+1.5 [http-module. Переменные окружения](005-http)
 
 2.1 [Библиотека Express.js](006-express)
 
