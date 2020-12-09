@@ -25,7 +25,7 @@
   favorite: "string",
   fileCover: "string",
   fileName: "string",
-  fileBooks: "string"  //новое поле
+  fileBook: "string"  //новое поле
 }
 ``` 
 
