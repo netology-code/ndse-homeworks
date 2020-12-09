@@ -13,7 +13,21 @@
 #### Задание 2
 Установить в проект пакет [**multer**](https://github.com/expressjs/multer/blob/master/doc/README-ru.md)
 и создать middleware для загрузки файла книги. 
-Созданную Middleware подключить и обработать в роутах создания данных о книге
+Созданную Middleware подключить и обработать в роутах создания данных о книге.
+
+Каждый экземпляр книги должен содержать следующую структуру данных: 
+```javascript
+{
+  id: "string",
+  title: "string",
+  description: "string",
+  authors: "string",
+  favorite: "string",
+  fileCover: "string",
+  fileName: "string",
+  fileBooks: "string"  //новое поле
+}
+``` 
 
 #### Задание 3
 Создать роут `GET: /api/books/:id/download` 
