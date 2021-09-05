@@ -17,7 +17,7 @@ input.on('line', function (value) {
     } else if (value < randomInt) {
         console.log("Меньше...");
     } else {
-        console.log("Верно!!!");
+        console.log(`Верно!!! ${value}`);
         return input.emit('close');
     }
 })
