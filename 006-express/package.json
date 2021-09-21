@@ -1,0 +1,20 @@
+{
+  "name": "006-express",
+  "version": "1.0.0",
+  "description": "**Правила выполнения домашней работы:** \r * Выполняйте домашнее задание в отдельной ветке проекта на гитхабе.\r * В поле для сдачи работы прикрепите ссылку на ваш проект в Git.\r * Присылать на проверку можно каждую задачу по отдельности или все задачи вместе. \r * Во время проверки по частям ваша домашняя работа будет со статусом «На доработке».\r * Любые вопросы по решению задач задавайте в Slack.",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --watch --ignore-watch=node_modules",
+    "dev": "nodemon index.js"
+  },
+  "author": "Nikita Kuznetsov <91nickel@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^5.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
