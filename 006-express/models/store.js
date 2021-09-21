@@ -2,7 +2,7 @@ const Book = require('./book');
 
 class Store {
     constructor() {
-        const test = {title: 'title', description: 'description', authors: 'authors', favorite: 'favorite', fileCover: 'fileCover', fileName: 'fileName'}
+        const test = {title: 'title', description: 'description', authors: 'authors', favorite: 'favorite', fileCover: '', fileName: '', fileBook: ''}
         this.books = [];
         this.add(test);
         this.add(test);

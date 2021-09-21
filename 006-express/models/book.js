@@ -2,7 +2,7 @@ const {v4: uuid} = require('uuid');
 
 class Book {
     constructor(fields = {}) {
-        const defaultFields = {title: '', description: '', authors: '', favorite: '', fileCover: '', fileName: ''}
+        const defaultFields = {title: '', description: '', authors: '', favorite: '', fileCover: '', fileName: '', fileBook: ''}
         this.id = uuid();
         Object.keys(defaultFields).forEach(function (key) {
             if (typeof fields[key] !== 'undefined')

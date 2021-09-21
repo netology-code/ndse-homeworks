@@ -19,7 +19,7 @@ app.listen(PORT, () => {
 
 ```node
 "scripts": {
-    "start": "node index.js"
+    "start": "node books.js"
   },
 ```
 
