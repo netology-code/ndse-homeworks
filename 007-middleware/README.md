@@ -23,7 +23,7 @@
   title: "string",
   description: "string",
   authors: "string",
-  favorite: "string",
+  favorite: bool,
   fileCover: "string",
   fileName: "string",
   fileBook: "string"  //новое поле
