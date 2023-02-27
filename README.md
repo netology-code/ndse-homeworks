@@ -16,7 +16,7 @@
 
 2.1 [Библиотека Express.js](006-express)
 
-2.2 [Middleware](007-middleware)
+2.2 [Middleware. Паттерн "цепочка обязанностей"](007-middleware)
 
 2.3 [Шаблонизаторы. Библиотека ejs](008-ejs)
 
