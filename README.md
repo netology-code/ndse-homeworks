@@ -20,13 +20,15 @@
 
 2.3 [Шаблонизаторы. Библиотека ejs](008-ejs)
 
-2.4 [Docker. Контейнеризация приложения.](009-docker)
+2.4 [Docker: установка и настройка.](009-docker)
 
-2.5 [Базы данных. mysql, postgres, MongoDB.](010-db)
+2.5 [Docker: контейнеризация приложения.](009-docker-2)
 
-2.6 [MongoDB - использование из node.js](011-mongo)
+2.6 [Базы данных. mysql, postgres, MongoDB.](010-db)
 
-2.7 [Аутентификация. PassportJS](012-auth)
+2.7 [MongoDB - использование из node.js](011-mongo)
 
-2.8 [Websocket. Библиотеки ws и socket.io](013-websocket)
+2.8 [Аутентификация. PassportJS](012-auth)
+
+2.9 [Websocket. Библиотеки ws и socket.io](013-websocket)
 
