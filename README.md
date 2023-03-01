@@ -14,7 +14,7 @@
 
 ## Блок 2: Библиотека Express.js
 
-2.1 [Библиотека Express.js](006-express)
+2.1 [Express](006-express)
 
 2.2 [Middleware. Паттерн "цепочка обязанностей"](007-middleware)
 
