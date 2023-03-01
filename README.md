@@ -24,11 +24,11 @@
 
 2.5 [Docker: контейнеризация приложения](009-docker-2)
 
-2.6 [Базы данных. mysql, postgres, MongoDB.](010-db)
+2.6 [Базы данных и хранение данных](010-db)
 
-2.7 [MongoDB - использование из node.js](011-mongo)
+2.7 [Подключение MongoDB в Node.js-приложение](011-mongo)
 
-2.8 [Аутентификация. PassportJS](012-auth)
+2.8 [Аутентификация. Passport.js](012-auth)
 
-2.9 [Websocket. Библиотеки ws и socket.io](013-websocket)
+2.9 [Realtime-взаимодействие с сервером, протокол websocket](013-websocket)
 
